@@ -1,4 +1,4 @@
-module github.com/anhao/go-mobile-detect
+module github.com/Oihso/go-mobile-detect
 
 go 1.21
 
